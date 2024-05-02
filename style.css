@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo img {
+    width: 130px;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    border-radius: 8px 30px;
+}
+
+.logo p {
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.logo i {
+    gap: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sekil {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.all-card {
+    display: flex;
+}
+
+.all-card img {
+    border-radius: 8px 30px;
+}
+
+.all-card .card-1 :hover {
+    transform: scale(1.1, 1.1);
+}
+
+.all-card .card-2 :hover {
+    transform: scale(1.1, 1.1);
+}
+
+.all-card .card-3 :hover {
+    transform: scale(1.1, 1.1);
+}
+
+.all-card .card-4 :hover {
+    transform: scale(1.1, 1.1);
+}
+
+.all-card .card-5 :hover {
+    transform: scale(1.1, 1.1);
+}
+
+.all-card .card-6 :hover {
+    transform: scale(1.1, 1.1);
+}
+
+.all-card .card-7 :hover {
+    transform: scale(1.1, 1.1);
+}
